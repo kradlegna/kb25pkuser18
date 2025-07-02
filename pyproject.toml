@@ -1,6 +1,6 @@
 [project]
 name = "kb25pkuser18"
-version = "0.1.0"
+version = "0.1.1"
 description = "poetry+github"
 authors = [
     {name = "kircheis",email = "kerniz@nate.com"}
